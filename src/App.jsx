@@ -1,10 +1,10 @@
-i
 
-function App() {
-  const [count, setCount] = useState(0)
+
+const App = () => {
 
   return (
     <div className="App">
+      Hello deco
       
     </div>
   )
